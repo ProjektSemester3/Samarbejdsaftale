@@ -6,10 +6,7 @@
 \contentsline {section}{\numberline {2.3}M\IeC {\o }detider}{1}{section.2.3}
 \contentsline {section}{\numberline {2.4}Ansvar}{1}{section.2.4}
 \contentsline {chapter}{\chapternumberline {3}Rollefordeling}{1}{chapter.3}
-\contentsline {section}{\numberline {3.1}Product Owner}{1}{section.3.1}
-\contentsline {section}{\numberline {3.2}Scrummaster}{1}{section.3.2}
-\contentsline {section}{\numberline {3.3}M\IeC {\o }deleder}{1}{section.3.3}
-\contentsline {section}{\numberline {3.4}Referenter}{2}{section.3.4}
+\contentsline {paragraph}{Product Owner}{1}{section*.2}
 \contentsline {chapter}{\chapternumberline {4}Disciplin}{2}{chapter.4}
 \contentsline {section}{\numberline {4.1}Fremm\IeC {\o }de}{2}{section.4.1}
 \contentsline {section}{\numberline {4.2}Arbejdsopgaver}{2}{section.4.2}
@@ -17,9 +14,9 @@
 \contentsline {chapter}{\chapternumberline {6}Udarbejdelse af dokumenter}{4}{chapter.6}
 \contentsline {section}{\numberline {6.1}M\IeC {\o }de Indkaldelser og referater}{4}{section.6.1}
 \contentsline {section}{\numberline {6.2}Anden Dokumentation}{4}{section.6.2}
-\contentsline {subsection}{Design af Dokumentation}{4}{section*.4}
-\contentsline {subsection}{Software til at skrive LaTex i}{4}{section*.5}
-\contentsline {subsection}{Guide til LaTeX, samt vejledning i skrivning af projekter i LaTeX}{4}{section*.6}
+\contentsline {subsection}{Design af Dokumentation}{4}{section*.8}
+\contentsline {subsection}{Software til at skrive LaTex i}{4}{section*.9}
+\contentsline {subsection}{Guide til LaTeX, samt vejledning i skrivning af projekter i LaTeX}{4}{section*.10}
 \contentsline {chapter}{\chapternumberline {7}Anvendte V\IeC {\ae }rkt\IeC {\o }jer}{5}{chapter.7}
 \contentsline {section}{\numberline {7.1}Slack}{5}{section.7.1}
 \contentsline {section}{\numberline {7.2}GitHub}{5}{section.7.2}
