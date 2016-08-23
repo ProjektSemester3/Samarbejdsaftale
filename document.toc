@@ -13,9 +13,16 @@
 \contentsline {chapter}{\chapternumberline {4}Disciplin}{2}{chapter.4}
 \contentsline {section}{\numberline {4.1}Fremm\IeC {\o }de}{2}{section.4.1}
 \contentsline {section}{\numberline {4.2}Arbejdsopgaver}{2}{section.4.2}
-\contentsline {chapter}{\chapternumberline {5}Udarbejdelse af dokumenter}{3}{chapter.5}
-\contentsline {section}{\numberline {5.1}M\IeC {\o }de Indkaldelser og referater}{3}{section.5.1}
-\contentsline {section}{\numberline {5.2}Anden Dokumentation}{3}{section.5.2}
-\contentsline {subsection}{Design af Dokumentation}{3}{section*.2}
-\contentsline {subsection}{Software til at skrive LaTex i}{3}{section*.3}
-\contentsline {subsection}{Guide til LaTeX, samt vejledning i skrivning af projekter i LaTeX}{3}{section*.4}
+\contentsline {chapter}{\chapternumberline {5}Proces og udvikling}{3}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Udarbejdelse af dokumenter}{4}{chapter.6}
+\contentsline {section}{\numberline {6.1}M\IeC {\o }de Indkaldelser og referater}{4}{section.6.1}
+\contentsline {section}{\numberline {6.2}Anden Dokumentation}{4}{section.6.2}
+\contentsline {subsection}{Design af Dokumentation}{4}{section*.4}
+\contentsline {subsection}{Software til at skrive LaTex i}{4}{section*.5}
+\contentsline {subsection}{Guide til LaTeX, samt vejledning i skrivning af projekter i LaTeX}{4}{section*.6}
+\contentsline {chapter}{\chapternumberline {7}Anvendte V\IeC {\ae }rkt\IeC {\o }jer}{5}{chapter.7}
+\contentsline {section}{\numberline {7.1}Slack}{5}{section.7.1}
+\contentsline {section}{\numberline {7.2}GitHub}{5}{section.7.2}
+\contentsline {section}{\numberline {7.3}Google kalender}{5}{section.7.3}
+\contentsline {section}{\numberline {7.4}Trello}{5}{section.7.4}
+\contentsline {section}{\numberline {7.5}UMLet}{5}{section.7.5}
