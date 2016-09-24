@@ -18,8 +18,7 @@
 \contentsline {subsection}{Software til at skrive LaTex i}{4}{section*.9}
 \contentsline {subsection}{Guide til LaTeX, samt vejledning i skrivning af projekter i LaTeX}{4}{section*.10}
 \contentsline {chapter}{\chapternumberline {7}Anvendte V\IeC {\ae }rkt\IeC {\o }jer}{5}{chapter.7}
-\contentsline {section}{\numberline {7.1}Slack}{5}{section.7.1}
-\contentsline {section}{\numberline {7.2}GitHub}{5}{section.7.2}
+\contentsline {section}{\numberline {7.1}RedMine}{5}{section.7.1}
+\contentsline {section}{\numberline {7.2}Slack}{5}{section.7.2}
 \contentsline {section}{\numberline {7.3}Google kalender}{5}{section.7.3}
-\contentsline {section}{\numberline {7.4}Trello}{5}{section.7.4}
-\contentsline {section}{\numberline {7.5}UMLet}{5}{section.7.5}
+\contentsline {section}{\numberline {7.4}UMLet}{5}{section.7.4}
