@@ -21,4 +21,5 @@
 \contentsline {section}{\numberline {7.1}RedMine}{5}{section.7.1}
 \contentsline {section}{\numberline {7.2}Slack}{5}{section.7.2}
 \contentsline {section}{\numberline {7.3}Google kalender}{5}{section.7.3}
-\contentsline {section}{\numberline {7.4}UMLet}{5}{section.7.4}
+\contentsline {section}{\numberline {7.4}GitHub}{5}{section.7.4}
+\contentsline {section}{\numberline {7.5}UMLet}{6}{section.7.5}
